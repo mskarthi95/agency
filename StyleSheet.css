@@ -1,0 +1,56 @@
+﻿#Displays
+{
+	margin: 0px auto;
+	background-color:White;
+	height: 763px;
+	width: 1345px;
+}
+
+#Footer
+{
+	margin-top:auto;
+	margin-bottom:auto;
+	background-color:Red;
+	z-index: 1;
+	left: 10px;
+	top: 415px;
+	position: relative;
+	height: 19px;
+	width: 769px;
+}
+#red
+{
+position:relative;
+top:-4px;
+left:1%;
+text-decoration:none;
+color:#fff;
+background:#cb2727;
+text-align:center;
+padding:15px 25px;
+width:111px;
+border:solid 1px #ec3838;
+-webkit-box-shadow: 0px 9px 0px #a81515;/*for opera and safari*/
+-moz-box-shadow: 0px 9px 0px #a81515;/*for mozilla*/
+-o-box-shadow: 0px 9px 0px #a81515;/*for opera*/
+-ms-box-shadow: 0px 9px 0px #a81515;
+	height: 47px;
+}  
+#Displays1
+{
+
+	background-color:Gray;
+	}
+	#menu1
+	{
+		font-size: xx-large;
+		color:Red;
+		background-color:Green;
+	}
+	#Displays2
+{
+	margin: 0px auto;
+	background-color:#CEFFFF;
+	height: 555px;
+	}
+

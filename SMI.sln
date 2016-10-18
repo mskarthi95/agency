@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "SMI", "..\..\SMI\", "{32D48496-DA8C-49A4-BEA1-2C08B783F5B2}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/SMI"
+		Debug.AspNetCompiler.PhysicalPath = "..\..\SMI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\SMI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/SMI"
+		Release.AspNetCompiler.PhysicalPath = "..\..\SMI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\SMI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "2699"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D48496-DA8C-49A4-BEA1-2C08B783F5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D48496-DA8C-49A4-BEA1-2C08B783F5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

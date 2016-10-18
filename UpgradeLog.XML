@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SMI">
+</Property><Property Name="Solution File" Value="H:\New folder (3)\Execute file\SMI\SMI.sln">
+</Property><Property Name="Date" Value="17 February 2016">
+</Property><Property Name="Time" Value="19:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="SMI.sln" Description="File successfully backed up as H:\New folder (3)\Execute file\SMI\Backup\SMI.sln">
+</Event><Event ErrorLevel="1" Project="" Source="..\..\SMI\" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="H:\New folder (3)\SMI\" Source="..\..\SMI\" Description="ERROR: Failed to back up Web site H:\New folder (3)\SMI\">
+</Event><Event ErrorLevel="0" Project="" Source="SMI.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SMI.sln" Description="Converted">
+</Event></UpgradeLog>
