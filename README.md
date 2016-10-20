@@ -1,6 +1,6 @@
 Consumer Uninterrupted management system
 
-Its for Insurance Vehicle insurance and others type of Insurance agency.
+Its for Vehicle insurance and others type of Insurance agency.
 
 -To maintain cnsumer record.
 -Consumer to know latest scheme.
